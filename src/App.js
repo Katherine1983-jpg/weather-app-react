@@ -6,11 +6,19 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project is coded by{" "}
-        <a href="" target="_blank" rel="noreferrer">
+        <a
+          href="https://katherine-simpson.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Katherine Simpson
         </a>{" "}
         and is{" "}
-        <a href="" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/Katherine1983-jpg/weather-app-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced.
         </a>
       </footer>
