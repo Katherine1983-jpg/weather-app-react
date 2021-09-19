@@ -11,7 +11,7 @@ export default function App() {
           <a
             href="https://katherine-simpson.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Katherine Simpson
           </a>{" "}
@@ -19,7 +19,7 @@ export default function App() {
           <a
             href="https://github.com/Katherine1983-jpg/weather-app-react"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced.
           </a>
