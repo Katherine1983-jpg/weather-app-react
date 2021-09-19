@@ -7,9 +7,3 @@
   font-size: 11px;
   margin: 10px 0;
 }
-
-.App body {
-  font-family: "Quicksand", sans-serif;
-  background-image: url("../foggy-road.jpg");
-  background-size: cover;
-}
