@@ -1,9 +1,9 @@
 .Weather {
   border: 2px solid #dadde1;
-  color: #70757a;
+  color: rgb(112, 117, 122);
   font-family: arial, sans-serif;
   padding: 16px;
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 .Weather h1 {
@@ -23,6 +23,10 @@
   font-weight: 100;
   line-height: 19px;
   margin: 10px 0 0 0;
+}
+
+.Weather li:first-letter {
+  text-transform: capitalize;
 }
 
 .Weather form {
